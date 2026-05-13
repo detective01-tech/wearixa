@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Wearixa E-Commerce Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "data:import": "node seeder.js"
+  },
+  "keywords": [],
+  "author": "Wearixa",
+  "license": "ISC"
+}
